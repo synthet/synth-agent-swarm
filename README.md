@@ -1,4 +1,4 @@
-# synthet-agent-swarm
+# Synth Agent Swarm
 
 Local MCP server that runs the same read-only judgement on the harnesses that are installed, then reports strict-majority agreement. Ties stay disputed. Votes are evidence, not ground truth.
 

@@ -2,6 +2,7 @@
   "name": "synthet-agent-swarm",
   "version": "0.1.1",
   "description": "Local MCP swarm of read-only CLI judges. Search harnesses, then run them.",
+  "homepage": "https://synthet.github.io",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
